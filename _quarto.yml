@@ -11,7 +11,7 @@ book:
   subtitle: "{{< var academic_term >}}"
   author: "Rafael C. Alvarado"
   date: "05/08/2021"
-  page-navigation: trues
+  page-navigation: true
   repo-actions: [edit]
   # downloads: [pdf]
   sharing: [twitter, facebook, linkedin]
@@ -110,6 +110,7 @@ book:
         - topics/project-management.qmd
         - topics/agile-dev.qmd
         - topics/user-stories.qmd
+        # - modules/m13/m13-activity.qmd
     - part: "Appendices"
       chapters: 
         - topics/oreilly-accounts.qmd
